@@ -3,10 +3,14 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/chard/AndroidStudioProjects/android98/app/src/main/res/layout/activity_loggedin.xml" value="0.33" />
+        <entry key="..\:/Users/chard/AndroidStudioProjects/android98/app/src/main/res/layout/activity_andos.xml" value="0.23958333333333334" />
+        <entry key="..\:/Users/chard/AndroidStudioProjects/android98/app/src/main/res/layout/activity_games.xml" value="0.23958333333333334" />
+        <entry key="..\:/Users/chard/AndroidStudioProjects/android98/app/src/main/res/layout/activity_loggedin.xml" value="0.2" />
         <entry key="..\:/Users/chard/AndroidStudioProjects/android98/app/src/main/res/layout/activity_logoffreg.xml" value="0.25" />
         <entry key="..\:/Users/chard/AndroidStudioProjects/android98/app/src/main/res/layout/activity_main.xml" value="0.25" />
-        <entry key="..\:/Users/chard/AndroidStudioProjects/android98/app/src/main/res/layout/activity_startmenu.xml" value="0.1" />
+        <entry key="..\:/Users/chard/AndroidStudioProjects/android98/app/src/main/res/layout/activity_programs.xml" value="0.23958333333333334" />
+        <entry key="..\:/Users/chard/AndroidStudioProjects/android98/app/src/main/res/layout/activity_runrun.xml" value="0.23958333333333334" />
+        <entry key="..\:/Users/chard/AndroidStudioProjects/android98/app/src/main/res/layout/activity_startmenu.xml" value="0.25" />
         <entry key="..\:/Users/chard/AndroidStudioProjects/android98/app/src/main/res/layout/fragment_startmenu.xml" value="0.36666666666666664" />
         <entry key="..\:/Users/chard/AndroidStudioProjects/android98/app/src/main/res/layout/fragment_startmenu_list.xml" value="0.35260416666666666" />
       </map>

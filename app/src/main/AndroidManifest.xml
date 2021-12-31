@@ -10,6 +10,18 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.AppCompat.NoActionBar">
         <activity
+            android:name=".runrun"
+            android:exported="false" />
+        <activity
+            android:name=".andos"
+            android:exported="false" />
+        <activity
+            android:name=".programs"
+            android:exported="false" />
+        <activity
+            android:name=".games"
+            android:exported="false" />
+        <activity
             android:name=".startmenu"
             android:exported="false" />
         <activity
