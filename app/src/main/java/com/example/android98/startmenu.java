@@ -3,26 +3,17 @@ package com.example.android98;
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.annotation.TargetApi;
-import android.content.ActivityNotFoundException;
 import android.content.Intent;
 import android.net.Uri;
 import android.os.Build;
-import android.os.Environment;
-import android.provider.DocumentsContract;
 import android.provider.Settings;
 import android.view.View;
-import android.webkit.MimeTypeMap;
 import android.widget.TextView;
-import android.content.Intent;
 import android.content.pm.ActivityInfo;
 import android.os.Bundle;
-import android.os.Handler;
-import java.io.File;
+
 import java.text.SimpleDateFormat;
 import java.util.Date;
-
-import android.os.Bundle;
-import android.widget.Toast;
 
 public class startmenu extends AppCompatActivity {
     @TargetApi(Build.VERSION_CODES.O)
@@ -71,7 +62,7 @@ public class startmenu extends AppCompatActivity {
             }
         } );
         //settings
-        findViewById ( R.id.setter).setOnClickListener ( new View.OnClickListener ( ) {
+        findViewById ( R.id.oom).setOnClickListener (new View.OnClickListener ( ) {
             @Override
             public
             void onClick ( View v ) {
@@ -134,6 +125,7 @@ public class startmenu extends AppCompatActivity {
                 finish();
                 Intent intent = new Intent ( startmenu.this , logoffreg.class );
                 startActivity ( intent );
+                System.exit(0);
             }
         } );
 

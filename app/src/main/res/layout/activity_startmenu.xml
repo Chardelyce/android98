@@ -39,7 +39,7 @@
         android:layout_height="wrap_content"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="520dp"
-        android:layout_marginEnd="56dp"
+        android:layout_marginEnd="16dp"
         android:textColor="#000000"
         android:textSize="6sp"
         android:textStyle="bold"
@@ -96,7 +96,7 @@
         app:srcCompat="@drawable/beatles" />
 
     <ImageButton
-        android:id="@+id/setter"
+        android:id="@+id/oom"
         android:layout_width="273dp"
         android:layout_height="59dp"
         android:layout_marginStart="24dp"
