@@ -21,8 +21,7 @@ public class logoffreg extends AppCompatActivity {
             @Override
             public void run() {
                 logoutmusic();
-
-               finish();
+               finishAffinity();
 
             }
         }, 20000);

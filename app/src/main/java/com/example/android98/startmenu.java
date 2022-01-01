@@ -122,9 +122,10 @@ public class startmenu extends AppCompatActivity {
             public
             void onClick ( View v ) {
 
-                finish();
+
                 Intent intent = new Intent ( startmenu.this , logoffreg.class );
                 startActivity ( intent );
+
                 System.exit(0);
             }
         } );
