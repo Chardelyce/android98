@@ -10,6 +10,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.AppCompat.NoActionBar">
         <activity
+            android:name=".notepad"
+            android:exported="false" />
+        <activity
             android:name=".helpme"
             android:exported="false" />
         <activity
