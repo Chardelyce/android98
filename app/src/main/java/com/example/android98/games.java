@@ -62,7 +62,7 @@ public class games extends AppCompatActivity {
             public
             void onClick ( View v ) {
 
-                Intent intent = new Intent ( games.this , loggedin.class );
+                Intent intent = new Intent ( games.this , programs.class );
                 startActivity ( intent );
 
             }

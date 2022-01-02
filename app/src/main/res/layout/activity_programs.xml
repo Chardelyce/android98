@@ -31,7 +31,7 @@
         app:srcCompat="@drawable/dosy" />
 
     <ImageButton
-        android:id="@+id/prompt2"
+        android:id="@+id/globe"
         android:layout_width="269dp"
         android:layout_height="129dp"
         android:layout_marginStart="188dp"
@@ -42,10 +42,10 @@
         app:srcCompat="@drawable/netnet" />
 
     <ImageButton
-        android:id="@+id/prompt6"
+        android:id="@+id/uppers"
         android:layout_width="269dp"
         android:layout_height="129dp"
-        android:layout_marginStart="168dp"
+        android:layout_marginStart="164dp"
         android:layout_marginBottom="588dp"
         android:background="@null"
         app:layout_constraintBottom_toBottomOf="@+id/popp"
@@ -64,7 +64,7 @@
         app:srcCompat="@drawable/notey" />
 
     <ImageButton
-        android:id="@+id/prompt7"
+        android:id="@+id/hi"
         android:layout_width="269dp"
         android:layout_height="129dp"
         android:layout_marginStart="180dp"
@@ -116,7 +116,7 @@
         app:srcCompat="@drawable/startmenu" />
 
     <ImageButton
-        android:id="@+id/prompt5"
+        android:id="@+id/office"
         android:layout_width="321dp"
         android:layout_height="204dp"
         android:layout_marginStart="156dp"

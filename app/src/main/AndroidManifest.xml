@@ -10,6 +10,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.AppCompat.NoActionBar">
         <activity
+            android:name=".beourguest"
+            android:exported="false" />
+        <activity
             android:name=".notepad"
             android:exported="false" />
         <activity
@@ -17,9 +20,6 @@
             android:exported="false" />
         <activity
             android:name=".runrun"
-            android:exported="false" />
-        <activity
-            android:name=".andos"
             android:exported="false" />
         <activity
             android:name=".programs"
